@@ -7,3 +7,5 @@ logo = '''
 \____/ \__,_|\___||___/___/  \/   |_| |_|\___| \_\ \/  \__,_|_| |_| |_|_.__/ \___|_|   
                                                                                        
 '''
+
+#Reference: https://patorjk.com/software/taag/#p=display&f=Ogre&t=Guess%20The%20Number
